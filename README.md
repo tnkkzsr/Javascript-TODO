@@ -1,18 +1,7 @@
-# JavaScript Web開発ガイド
+# JavaScript TODOリスト作成
 
-このガイドでは、JavaScriptを使ったWeb開発で一般的に使用されるメソッドとプロパティについて説明します。これらはあらゆる種類のタスクを可能にします。
+Javascriptを初学で学び、基本事項をアウトプットするために試しにTODOリストを作成しtあ
 
-## 目次
-
-1. [HTMLとCSSの基本](#html-css-basics)
-2. [DOM（Document Object Model）](#dom)
-3. [イベントリスナー](#event-listeners)
-4. [関数の作成と使用](#function-creation-usage)
-5. [配列の操作](#array-operations)
-6. [ローカルストレージの使用](#local-storage-usage)
-7. [エラーハンドリングとデバッグ](#error-handling-debugging)
-8. [クラス操作](#class-manipulation)
-9. [テキスト操作](#text-manipulation)
 
 ---
 
