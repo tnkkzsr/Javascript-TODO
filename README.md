@@ -3,7 +3,7 @@
 Javascriptを初学で学び、基本事項をアウトプットするために試しにTODOリストを作成した
 
 
-##学んだこと一覧
+##　学んだこと一覧
 
 <a name="html-css-basics"></a>
 ### 1. HTMLとCSSの基本
