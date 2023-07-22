@@ -1,9 +1,10 @@
 # JavaScript TODOリスト作成
 
 Javascriptを初学で学び、基本事項をアウトプットするために試しにTODOリストを作成した
+以下は学んだこと
 
 
-##　学んだこと一覧
+
 
 <a name="html-css-basics"></a>
 ### 1. HTMLとCSSの基本
