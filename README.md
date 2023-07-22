@@ -1,6 +1,6 @@
 # JavaScript TODOリスト作成
 
-Javascriptを初学で学び、基本事項をアウトプットするために試しにTODOリストを作成しtあ
+Javascriptを初学で学び、基本事項をアウトプットするために試しにTODOリストを作成した
 
 
 ---
